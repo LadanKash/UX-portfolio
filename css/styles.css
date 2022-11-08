@@ -1,0 +1,123 @@
+body {
+  font-family: "Montserrat";
+}
+
+.profile {
+  width: 370px;
+  margin-bottom: 40px;
+
+}
+
+.card-img-top {
+  width: 280px;
+  margin-left: 250px;
+  margin-top: 12px;
+}
+
+.card {
+  background-color: #FBF8F8;
+  margin: 5px;
+  padding: inherit;
+  border-radius: 10px;
+
+}
+
+.card-title {
+  margin-left: 100px;
+}
+
+.card-text {
+  margin-left: 100px;
+}
+
+.hero {
+  margin: 60px;
+  margin-left: 30px;
+}
+
+
+.container-fluid {
+  padding: 1% 5%;
+  color: #624450;
+}
+
+
+.row1 {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+.text {
+  margin-left: 150px;
+  margin-top: 70px;
+}
+.text-A{
+  padding-top: 50px;
+  padding-left: 10px;
+}
+.text2{
+margin-left: 300px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Montserrat-bold;
+  color: #624450;
+}
+
+p {
+  color: black;
+}
+
+.image {
+  margin-right: 20px;
+}
+
+/*Sections*/
+.colored-section {
+  background-color: #F4ECEC;
+  color: #8f8f8f;
+}
+
+hr {
+  border-style: none;
+
+}
+
+/*Navbar-bar */
+.navbar {
+  top: 20px;
+  color: #624450;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 55px;
+}
+
+.navbar-brand {
+  font-family: "swap";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.nav-item {
+  padding-left: 30px;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 50px;
+  display: flex;
+}
+
+.py-5 {
+  background-color: #FFF;
+  text-align: center;
+}
